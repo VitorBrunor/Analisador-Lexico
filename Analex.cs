@@ -9,8 +9,8 @@ namespace Compilador.lexico
     {
         public void montarLexemas()
         {
-            string inputFilePath = "C:\\Users\\guilh\\source\\repos\\CompiladorN\\inferno.c";
-            string outputFilePath = "C:\\Users\\guilh\\source\\repos\\CompiladorN\\Analex.txt";
+            string inputFilePath = "C:\\Users\\vitor\\Downloads\\Analisador-Lexico\\entrada.c";
+            string outputFilePath = "C:\\Users\\vitor\\Downloads\\Analisador-Lexico\\analex.txt";
 
             try
             {
